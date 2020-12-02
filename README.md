@@ -1,4 +1,5 @@
 # CheerUp
+All the codes are in master branch on the second branch
 You can View the official site here
 https://manasisaiba.github.io/CheerUp/
 
